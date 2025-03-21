@@ -73,14 +73,6 @@ As AI systems continuously accumulate user data to provide personalized and cont
   - Naive deletion (random or timestamp-based) vs. embedding-based deletion
   - Our method retained more unique, meaningful content
 
----
-
-## 🖥️ Interface (Optional Extension)
-
-- (If applicable) Built a Streamlit or Gradio app to:
-  - Upload sample memory entries
-  - Visualize similarity matrix
-  - Perform cleanup live
 
 ---
 
