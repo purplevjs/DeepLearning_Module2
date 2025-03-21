@@ -100,5 +100,4 @@ As AI systems continuously accumulate user data to provide personalized and cont
 
 ---
 
-## 📁 Folder Structure (Example)
 
